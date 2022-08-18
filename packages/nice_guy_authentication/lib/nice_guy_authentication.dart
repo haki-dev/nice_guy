@@ -1,3 +1,4 @@
 library nice_guy_authentication;
 
-export 'src/nice_guy_authentication.dart';
+export 'src/entities/entities.dart';
+export 'src/repositories/repositories.dart';
